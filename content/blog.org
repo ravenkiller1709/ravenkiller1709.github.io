@@ -1,0 +1,14 @@
+[[file:index.org][Back to main site]]
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+OPTIONS: num:nil \n:t
+#+TITLE: Linuxblogger
+
+[2023-01-29 søn]
+* Hyprland
+Did try out hyprland after seeing the youtube clip CTT did on it. It did however not have a succesfull outcome for me. I installed hyprland via a arcolinuxb iso and perhaps this was the main cause of it to constantly hang. I do like hyprland but I think it is not mature yet - as with sway I find there to be some issues with my trackpad - it seems like it has difficulties in finding hyperlink - as if it wants to avoid the link. This is the third time I tested hyprland/wayland and last time was early December.
+But very exciting and definitely the future of linux - also for tiling wm's which are my preference.
+
+[2023-01-29 søn]
+* My new site
+I have experimented with creating an entire website in Emacs - and this has now finally been accomplished thanks to David Wilson [[https://systemcrafter.cc][Systemcrafters]] and his many many Emacs vlogs. 99% of my emacs knowledge is thanks to David and a bit shoutout to him! I did for a while live in EXWM, but did find issues with that and I never was able to detect if it was due to my lack of knowledge and wrong config, but I finally gave up and instead are now combining Emacs with the beauty of dwm (chadwm) which is both extremely fast and stunning.
+[[file:img/dwm.png][My Dwm]]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Linuxblogger</title>
+<meta name="generator" content="Org Mode" />
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/htmlize.css"/>
+<link rel="stylesheet" type="text/css" href="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/css/readtheorg.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
+<script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Linuxblogger</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org2947531">Hyprland</a></li>
+<li><a href="#org918dfbd">My new site</a></li>
+</ul>
+</div>
+</div>
+<p>
+<a href="index.html">Back to main site</a><br />
+</p>
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">[2023-01-29 søn]</span></span><br />
+</p>
+<div id="outline-container-org2947531" class="outline-2">
+<h2 id="org2947531">Hyprland</h2>
+<div class="outline-text-2" id="text-org2947531">
+<p>
+Did try out hyprland after seeing the youtube clip CTT did on it. It did however not have a succesfull outcome for me. I installed hyprland via a arcolinuxb iso and perhaps this was the main cause of it to constantly hang. I do like hyprland but I think it is not mature yet - as with sway I find there to be some issues with my trackpad - it seems like it has difficulties in finding hyperlink - as if it wants to avoid the link. This is the third time I tested hyprland/wayland and last time was early December.<br />
+But very exciting and definitely the future of linux - also for tiling wm's which are my preference.<br />
+</p>
+
+<p>
+<span class="timestamp-wrapper"><span class="timestamp">[2023-01-29 søn]</span></span><br />
+</p>
+</div>
+</div>
+<div id="outline-container-org918dfbd" class="outline-2">
+<h2 id="org918dfbd">My new site</h2>
+<div class="outline-text-2" id="text-org918dfbd">
+<p>
+I have experimented with creating an entire website in Emacs - and this has now finally been accomplished thanks to David Wilson and his many many Emacs vlogs. 99% of my emacs knowledge is thanks to David and a bit shoutout to him! I did for a while live in EXWM, but did find issues with that and I never was able to detect if it was due to my lack of knowledge and wrong config, but I finally gave up and instead are now combining Emacs with the beauty of dwm (chadwm) which is both extremely fast and stunning.<br />
+<a href="img/dwm.png">Dwm</a><br />
+</p>
+</div>
+</div>
+</div>
+</body>
+</html>

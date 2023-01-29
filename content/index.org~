@@ -1,0 +1,15 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+title: Emacs is the perfect productivity tool
+
+
+* Overview
+
+  This is an example of a website written with Org.Mode!
+
+* Links
+
+  - [[./Emacs.org][My Emacs Configuration]]
+  - [[https://Emacs.org][Emacs homepage]]
+  - [[https://youtube.com][Youtube]]
+  - [[https://danekikr.chickenkiller.com][My Nextcloud Server]]
+  - [[file:cv.org][My Resumé]]
